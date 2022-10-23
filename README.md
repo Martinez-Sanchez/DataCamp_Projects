@@ -24,7 +24,7 @@ Repository contains the project of Data Scientist with Python track from Data Ca
 - Importing and Cleaning data, Data Manipulation, Data Visualization
 
 03 - **The Android App Market on Google Play.**
--Importing and Cleaning data, Data Manipulation, Data Visualization, Probability and Statistics.
+- Importing and Cleaning data, Data Manipulation, Data Visualization, Probability and Statistics.
 
 04 - **A visual history of Nobel Prize Winners.**
 - Importing and Cleaning data, Data Manipulation, Data Visualization
